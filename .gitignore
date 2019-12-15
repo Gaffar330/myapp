@@ -1,0 +1,8 @@
+# ignore a single file
+log.txt
+
+# ignore a folder
+/folder name
+
+# ignore same type all files at a time
+*.txt
